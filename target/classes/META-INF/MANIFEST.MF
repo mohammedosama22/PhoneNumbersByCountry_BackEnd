@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Built-By: mohamedgamal
+Build-Jdk: 15
+Implementation-Title: JumiaTask
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.example
+Implementation-URL: https://spring.io/projects/spring-boot/JumiaTask
+Created-By: Maven Integration for Eclipse
+
